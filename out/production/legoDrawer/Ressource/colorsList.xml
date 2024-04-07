@@ -1,0 +1,678 @@
+<colors>
+    <color>
+        <name>Black</name>
+        <rgb>
+            <red>0</red>
+            <green>0</green>
+            <blue>0</blue>
+        </rgb>
+        <code>26</code>
+    </color>
+    <color>
+        <name>Dark Stone Grey</name>
+        <rgb>
+            <red>99</red>
+            <green>95</green>
+            <blue>94</blue>
+        </rgb>
+        <code>199</code>
+    </color>
+    <color>
+        <name>Medium Stone Grey</name>
+        <rgb>
+            <red>163</red>
+            <green>162</green>
+            <blue>165</blue>
+        </rgb>
+        <code>194</code>
+    </color>
+    <color>
+        <name>Light Stone Grey</name>
+        <rgb>
+            <red>229</red>
+            <green>228</green>
+            <blue>223</blue>
+        </rgb>
+        <code>208</code>
+    </color>
+    <color>
+        <name>White</name>
+        <rgb>
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+        </rgb>
+        <code>1</code>
+    </color>
+    <color>
+        <name>New Dark Red</name>
+        <rgb>
+            <red>154</red>
+            <green>14</green>
+            <blue>21</blue>
+        </rgb>
+        <code>154</code>
+    </color>
+    <color>
+        <name>Bright Red</name>
+        <rgb>
+            <red>196</red>
+            <green>40</green>
+            <blue>27</blue>
+        </rgb>
+        <code>21</code>
+    </color>
+    <color>
+        <name>Dark Brown</name>
+        <rgb>
+            <red>72</red>
+            <green>42</green>
+            <blue>29</blue>
+        </rgb>
+        <code>308</code>
+    </color>
+    <color>
+        <name>Reddish Brown</name>
+        <rgb>
+            <red>105</red>
+            <green>64</green>
+            <blue>40</blue>
+        </rgb>
+        <code>192</code>
+    </color>
+    <color>
+        <name>Olive Green</name>
+        <rgb>
+            <red>155</red>
+            <green>154</green>
+            <blue>64</blue>
+        </rgb>
+        <code>330</code>
+    </color>
+    <color>
+        <name>Sand Yellow</name>
+        <rgb>
+            <red>163</red>
+            <green>155</green>
+            <blue>108</blue>
+        </rgb>
+        <code>138</code>
+    </color>
+    <color>
+        <name>Brick Yellow</name>
+        <rgb>
+            <red>216</red>
+            <green>196</green>
+            <blue>157</blue>
+        </rgb>
+        <code>5</code>
+    </color>
+    <color>
+        <name>Dark Orange</name>
+        <rgb>
+            <red>160</red>
+            <green>95</green>
+            <blue>53</blue>
+        </rgb>
+        <code>38</code>
+    </color>
+    <color>
+        <name>Nougat</name>
+        <rgb>
+            <red>206</red>
+            <green>171</green>
+            <blue>145</blue>
+        </rgb>
+        <code>18</code>
+    </color>
+    <color>
+        <name>Medium Nougat</name>
+        <rgb>
+            <red>190</red>
+            <green>150</green>
+            <blue>92</blue>
+        </rgb>
+        <code>312</code>
+    </color>
+    <color>
+        <name>Bright Orange</name>
+        <rgb>
+            <red>215</red>
+            <green>197</green>
+            <blue>154</blue>
+        </rgb>
+        <code>106</code>
+    </color>
+    <color>
+        <name>Flame Yellowish Orange</name>
+        <rgb>
+            <red>245</red>
+            <green>130</green>
+            <blue>32</blue>
+        </rgb>
+        <code>191</code>
+    </color>
+    <color>
+        <name>Light Nougat</name>
+        <rgb>
+            <red>243</red>
+            <green>207</green>
+            <blue>155</blue>
+        </rgb>
+        <code>283</code>
+    </color>
+    <color>
+        <name>Cool Yellow</name>
+        <rgb>
+            <red>255</red>
+            <green>236</green>
+            <blue>132</blue>
+        </rgb>
+        <code>226</code>
+    </color>
+    <color>
+        <name>White Glow</name>
+        <rgb>
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+        </rgb>
+        <code>329</code>
+    </color>
+    <color>
+        <name>Earth Green</name>
+        <rgb>
+            <red>31</red>
+            <green>73</green>
+            <blue>38</blue>
+        </rgb>
+        <code>141</code>
+    </color>
+    <color>
+        <name>Bright Green</name>
+        <rgb>
+            <red>23</red>
+            <green>149</green>
+            <blue>71</blue>
+        </rgb>
+        <code>37</code>
+    </color>
+    <color>
+        <name>Bright Yellowish Green</name>
+        <rgb>
+            <red>166</red>
+            <green>214</green>
+            <blue>8</blue>
+        </rgb>
+        <code>119</code>
+    </color>
+    <color>
+        <name>Spring Yellowish Green</name>
+        <rgb>
+            <red>219</red>
+            <green>236</green>
+            <blue>18</blue>
+        </rgb>
+        <code>120</code>
+    </color>
+    <color>
+        <name>Earth Blue</name>
+        <rgb>
+            <red>32</red>
+            <green>58</green>
+            <blue>86</blue>
+        </rgb>
+        <code>71</code>
+    </color>
+    <color>
+        <name>Sand Blue</name>
+        <rgb>
+            <red>115</red>
+            <green>150</green>
+            <blue>174</blue>
+        </rgb>
+        <code>106</code>
+    </color>
+    <color>
+        <name>Dark Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>50</green>
+            <blue>120</blue>
+        </rgb>
+        <code>23</code>
+    </color>
+    <color>
+        <name>Medium Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>105</green>
+            <blue>173</blue>
+        </rgb>
+        <code>102</code>
+    </color>
+    <color>
+        <name>Light Royal Blue</name>
+        <rgb>
+            <red>107</red>
+            <green>157</green>
+            <blue>220</blue>
+        </rgb>
+        <code>135</code>
+    </color>
+    <color>
+        <name>Medium Azur</name>
+        <rgb>
+            <red>108</red>
+            <green>156</green>
+            <blue>181</blue>
+        </rgb>
+        <code>212</code>
+    </color>
+    <color>
+        <name>Dark Azur</name>
+        <rgb>
+            <red>38</red>
+            <green>80</green>
+            <blue>119</blue>
+        </rgb>
+        <code>102</code>
+    </color>
+    <color>
+        <name>Medium Lilac</name>
+        <rgb>
+            <red>107</red>
+            <green>98</green>
+            <blue>155</blue>
+        </rgb>
+        <code>129</code>
+    </color>
+    <color>
+        <name>Bright Reddish Violet</name>
+        <rgb>
+            <red>203</red>
+            <green>49</green>
+            <blue>186</blue>
+        </rgb>
+        <code>221</code>
+    </color>
+    <color>
+        <name>Light Purple</name>
+        <rgb>
+            <red>157</red>
+            <green>129</green>
+            <blue>186</blue>
+        </rgb>
+        <code>124</code>
+    </color>
+    <color>
+        <name>Dark Purple</name>
+        <rgb>
+            <red>84</red>
+            <green>40</green>
+            <blue>120</blue>
+        </rgb>
+        <code>325</code>
+    </color>
+    <color>
+        <name>Reddish Brown</name>
+        <rgb>
+            <red>69</red>
+            <green>36</green>
+            <blue>27</blue>
+        </rgb>
+        <code>192</code>
+    </color>
+    <color>
+        <name>Brown</name>
+        <rgb>
+            <red>84</red>
+            <green>48</green>
+            <blue>24</blue>
+        </rgb>
+        <code>217</code>
+    </color>
+    <color>
+        <name>Light Brown</name>
+        <rgb>
+            <red>156</red>
+            <green>120</green>
+            <blue>69</blue>
+        </rgb>
+        <code>283</code>
+    </color>
+    <color>
+        <name>Tan</name>
+        <rgb>
+            <red>215</red>
+            <green>197</green>
+            <blue>154</blue>
+        </rgb>
+        <code>2</code>
+    </color>
+    <color>
+        <name>Brick Yellow</name>
+        <rgb>
+            <red>229</red>
+            <green>217</green>
+            <blue>148</blue>
+        </rgb>
+        <code>5</code>
+    </color>
+    <color>
+        <name>Medium Nougat</name>
+        <rgb>
+            <red>224</red>
+            <green>178</green>
+            <blue>131</blue>
+        </rgb>
+        <code>283</code>
+    </color>
+    <color>
+        <name>Nougat</name>
+        <rgb>
+            <red>204</red>
+            <green>142</green>
+            <blue>104</blue>
+        </rgb>
+    <code>283</code>
+    </color>
+    <color>
+        <name>Light Nougat</name>
+        <rgb>
+            <red>250</red>
+            <green>203</green>
+            <blue>165</blue>
+        </rgb>
+        <code>283</code>
+    </color>
+    <color>
+        <name>Dark Brown</name>
+        <rgb>
+            <red>84</red>
+            <green>48</green>
+            <blue>24</blue>
+        </rgb>
+        <code>320</code>
+    </color>
+    <color>
+        <name>Red</name>
+        <rgb>
+            <red>192</red>
+            <green>12</green>
+            <blue>18</blue>
+        </rgb>
+        <code>21</code>
+    </color>
+    <color>
+        <name>Flame Yellowish Orange</name>
+        <rgb>
+            <red>230</red>
+            <green>85</green>
+            <blue>13</blue>
+        </rgb>
+        <code>191</code>
+    </color>
+    <color>
+        <name>Bright Orange</name>
+        <rgb>
+            <red>231</red>
+            <green>171</green>
+            <blue>27</blue>
+        </rgb>
+    <code>24</code>
+    </color>
+    <color>
+        <name>Bright Yellowish Orange</name>
+        <rgb>
+            <red>252</red>
+            <green>172</green>
+            <blue>0</blue>
+        </rgb>
+        <code>107</code>
+    </color>
+    <color>
+        <name>Bright Yellow</name>
+        <rgb>
+            <red>255</red>
+            <green>215</green>
+            <blue>0</blue>
+        </rgb>
+        <code>24</code>
+    </color>
+    <color>
+        <name>Medium Yellowish Green</name>
+        <rgb>
+            <red>199</red>
+            <green>210</green>
+            <blue>60</blue>
+        </rgb>
+        <code>37</code>
+    </color>
+    <color>
+        <name>Brick Yellow</name>
+        <rgb>
+            <red>225</red>
+            <green>205</green>
+            <blue>92</blue>
+        </rgb>
+        <code>5</code>
+    </color>
+    <color>
+        <name>Medium Yellow</name>
+        <rgb>
+            <red>255</red>
+            <green>236</green>
+            <blue>141</blue>
+        </rgb>
+        <code>3</code>
+    </color>
+    <color>
+        <name>Bright Green</name>
+        <rgb>
+            <red>39</red>
+            <green>121</green>
+            <blue>39</blue>
+        </rgb>
+        <code>28</code>
+    </color>
+    <color>
+        <name>Earth Green</name>
+        <rgb>
+            <red>40</red>
+            <green>127</green>
+            <blue>71</blue>
+        </rgb>
+        <code>141</code>
+    </color>
+    <color>
+        <name>Medium Green</name>
+        <rgb>
+            <red>80</red>
+            <green>186</green>
+            <blue>108</blue>
+        </rgb>
+        <code>29</code>
+    </color>
+    <color>
+        <name>Bright Bluish Green</name>
+        <rgb>
+            <red>74</red>
+            <green>155</green>
+            <blue>60</blue>
+        </rgb>
+        <code>119</code>
+    </color>
+    <color>
+        <name>Bright Green</name>
+        <rgb>
+            <red>0</red>
+            <green>133</green>
+            <blue>43</blue>
+        </rgb>
+        <code>37</code>
+    </color>
+    <color>
+        <name>Medium Green</name>
+        <rgb>
+            <red>40</red>
+            <green>121</green>
+            <blue>39</blue>
+        </rgb>
+        <code>28</code>
+    </color>
+    <color>
+        <name>Light Green</name>
+        <rgb>
+            <red>118</red>
+            <green>205</green>
+            <blue>113</blue>
+        </rgb>
+        <code>36</code>
+    </color>
+    <color>
+        <name>Neon Yellowish Green</name>
+        <rgb>
+            <red>197</red>
+            <green>255</green>
+            <blue>0</blue>
+        </rgb>
+        <code>158</code>
+    </color>
+    <color>
+        <name>Medium Green</name>
+        <rgb>
+            <red>60</red>
+            <green>190</green>
+            <blue>112</blue>
+        </rgb>
+        <code>28</code>
+    </color>
+    <color>
+        <name>Green</name>
+        <rgb>
+            <red>33</red>
+            <green>68</green>
+            <blue>29</blue>
+        </rgb>
+        <code>28</code>
+    </color>
+    <color>
+        <name>Dark Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>33</green>
+            <blue>71</blue>
+        </rgb>
+        <code>23</code>
+    </color>
+    <color>
+        <name>Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>67</green>
+            <blue>138</blue>
+        </rgb>
+        <code>7</code>
+    </color>
+    <color>
+        <name>Medium Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>105</green>
+            <blue>148</blue>
+        </rgb>
+        <code>102</code>
+    </color>
+    <color>
+        <name>Bright Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>132</green>
+            <blue>176</blue>
+        </rgb>
+        <code>102</code>
+    </color>
+    <color>
+        <name>Medium Blue</name>
+        <rgb>
+            <red>0</red>
+            <green>112</green>
+            <blue>186</blue>
+        </rgb>
+        <code>63</code>
+    </color>
+    <color>
+        <name>Bright Light Blue</name>
+        <rgb>
+            <red>183</red>
+            <green>215</green>
+            <blue>228</blue>
+        </rgb>
+        <code>153</code>
+    </color>
+    <color>
+        <name>Sand Blue</name>
+        <rgb>
+            <red>120</red>
+            <green>144</green>
+            <blue>130</blue>
+        </rgb>
+        <code>135</code>
+    </color>
+    <color>
+        <name>Medium Azur</name>
+        <rgb>
+            <red>167</red>
+            <green>169</green>
+            <blue>206</blue>
+        </rgb>
+        <code>102</code>
+    </color>
+    <color>
+        <name>Azur</name>
+        <rgb>
+            <red>155</red>
+            <green>176</green>
+            <blue>221</blue>
+        </rgb>
+        <code>153</code>
+    </color>
+    <color>
+        <name>Dark Azur</name>
+        <rgb>
+            <red>72</red>
+            <green>123</green>
+            <blue>184</blue>
+        </rgb>
+        <code>153</code>
+    </color>
+    <color>
+        <name>Light Blue</name>
+        <rgb>
+            <red>161</red>
+            <green>202</green>
+            <blue>241</blue>
+        </rgb>
+        <code>153</code>
+    </color>
+    <color>
+        <name>Medium Lavender</name>
+        <rgb>
+            <red>160</red>
+            <green>110</green>
+            <blue>185</blue>
+        </rgb>
+        <code>268</code>
+    </color>
+    <color>
+        <name>Lavender</name>
+        <rgb>
+            <red>151</red>
+            <green>133</green>
+            <blue>194</blue>
+        </rgb>
+        <code>268</code>
+    </color>
+</colors>
+
